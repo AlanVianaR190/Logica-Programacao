@@ -1,0 +1,20 @@
+Escreva um programa que leia um inteiro entre 1 e 12 e imprima o mês correspondente a este numero. Isto é janeiro se 1, fevereiro se 2, e assim por diante.
+
+Escreva o menu de opções abaixo. Leia a opção do usuário e execute a operação escolhida. Escreva uma mensagem de erro se a opção for inválida. 
+Escolha a opção:
+1- Soma de 2 números.
+2- Diferença entre 2 números (maior pelo menor).
+3- Produto entre 2 números.
+4- Divisão entre 2 números (o denominador n~ao pode ser zero).
+Opção
+
+Escrever um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue o padrão abaixo:
+
+Especificacão 	Código 	Preço 
+Cachorro Quente 100 	9.20 
+Bauru Simples 	101 	10.30 
+Bauru com Ovo 	102 	11.50 
+Hamburguer 	103 	12.00 
+Cheeseburguer 	104 	17.00 	
+Suco 		105 	8.20 
+Refrigerante 	106 	7.00
